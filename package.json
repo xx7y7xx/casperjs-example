@@ -1,0 +1,23 @@
+{
+  "name": "casperjs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "casperjs": "^1.1.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xxd3vin/casperjs-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xxd3vin/casperjs-example/issues"
+  },
+  "homepage": "https://github.com/xxd3vin/casperjs-example#readme"
+}
